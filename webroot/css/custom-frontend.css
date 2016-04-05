@@ -1,0 +1,7 @@
+#footer{padding: 10px 20px; margin-top: 20px;}
+#search_form_cont{padding-bottom: 0;}
+#search_form_cont .ibox{margin-bottom: 0}
+.initial_hide{display: none;}
+.search-result p{font-size: 13px;}
+#form_toggle{cursor: pointer;}
+.pagination > li > a, .pagination > li > span{padding: 8px 14px;}
